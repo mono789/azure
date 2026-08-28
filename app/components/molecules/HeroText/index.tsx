@@ -9,7 +9,7 @@ const Index = () => {
       </div>
       <div>
         <p className='text-blanco text-lg mt-4'>
-          TEXTO EDITADO
+          NUEVO TEXTO CON COMMMIT NUEVO
         </p>
       </div>
       <div>
