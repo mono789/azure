@@ -9,8 +9,7 @@ const Index = () => {
       </div>
       <div>
         <p className='text-blanco text-lg mt-4'>
-          Project management software that enables your teams to collaborate, plan, analyze and
-          manage everyday tasks
+          TEXTO EDITADO
         </p>
       </div>
       <div>
