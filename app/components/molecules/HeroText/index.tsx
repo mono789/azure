@@ -9,7 +9,7 @@ const Index = () => {
       </div>
       <div>
         <p className='text-blanco text-lg mt-4'>
-          Commit de test
+          UN CAMBIO NUEVO
         </p>
       </div>
       <div>
